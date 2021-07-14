@@ -4,8 +4,6 @@ I started building my resume from here https://github.com/drehimself/resume-temp
 
 I chose this template because it looked simple and professional.  <br/></br>
 
-I customized the template to make it work for me. In the past, I paid for templates that looked nice but I couldn't customize, there were some display issues, and not to mention monthly payments. <br/> <br/>
-
 Technologies used were:
 
 - HTML5
